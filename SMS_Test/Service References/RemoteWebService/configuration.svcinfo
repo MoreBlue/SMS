@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;SmsOperatorImpServiceSoapBinding&quot; /&gt;" bindingType="basicHttpBinding" name="SmsOperatorImpServiceSoapBinding" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://www.sdjst.cn/sddx/webService/smsOper&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;SmsOperatorImpServiceSoapBinding&quot; contract=&quot;RemoteWebService.ISmsOperator&quot; name=&quot;SmsOperatorImpPort&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://www.sdjst.cn/sddx/webService/smsOper&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;SmsOperatorImpServiceSoapBinding&quot; contract=&quot;RemoteWebService.ISmsOperator&quot; name=&quot;SmsOperatorImpPort&quot; /&gt;" contractName="RemoteWebService.ISmsOperator" name="SmsOperatorImpPort" />
+  </endpoints>
+</configurationSnapshot>

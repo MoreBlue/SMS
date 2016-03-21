@@ -1,0 +1,17 @@
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\bin\Debug\SMS_Test.exe.config
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\bin\Debug\SMS_Test.exe
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\bin\Debug\SMS_Test.pdb
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\obj\Debug\SMS_Test.FormMain.resources
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\obj\Debug\SMS_Test.Properties.Resources.resources
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\obj\Debug\SMS_Test.csproj.GenerateResource.Cache
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\obj\Debug\SMS_Test.exe
+D:\LT_Document\短信服务\电信集时通\Demo_ZP\SMS_Test\obj\Debug\SMS_Test.pdb
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\bin\Debug\SMS_Test.exe.config
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\obj\Debug\SMS_Test.exe
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\obj\Debug\SMS_Test.pdb
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\bin\Debug\SMS_Test.exe
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\bin\Debug\SMS_Test.pdb
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\obj\Debug\SMS_Test.csprojResolveAssemblyReference.cache
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\obj\Debug\SMS_Test.FormMain.resources
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\obj\Debug\SMS_Test.Properties.Resources.resources
+C:\Users\XXB-ZP-83156\Desktop\SMS_Test\obj\Debug\SMS_Test.csproj.GenerateResource.Cache
